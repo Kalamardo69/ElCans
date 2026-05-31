@@ -45,8 +45,6 @@ http://192.168.18.41:6878/ace/getstream?id=01ce89b571b6c89bc19ccaafc913d483ac65c
 http://192.168.18.41:6878/ace/getstream?id=9ced16b2055c99bf89c26e678e315e1b01d3734c
 #EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 720p *
 http://192.168.18.41:6878/ace/getstream?id=ac33342ccf7d40d46174229085461d95000b9137
-#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p *
-http://192.168.18.41:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
 #EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p **
 http://192.168.18.41:6878/ace/getstream?id=c53bdb3be55d12c5188d25085f1bb16911c15cea
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="MOVISTAR DEPORTES",M+ Deportes 2 720p *
