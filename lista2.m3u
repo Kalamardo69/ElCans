@@ -31,8 +31,6 @@ http://192.168.18.41:6878/ace/getstream?id=e63fbcafbfc9bcb7e1cffa1d2eea97cc77f7a
 http://192.168.18.41:6878/ace/getstream?id=7efe62956b1f395161e217df1f438c8bf0d4416b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/826y2Yv/Hypermotion3.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 4 *
 http://192.168.18.41:6878/ace/getstream?id=a4b1b0a338a18d9b1e2049eb57e99e702399095d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/826y2Yv/Hypermotion3.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 5 *
-http://192.168.18.41:6878/ace/getstream?id=d717a61577e7a0495a31b3da9c5e1e27902df485
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 6 *
 http://192.168.18.41:6878/ace/getstream?id=f8ff5b3939d009a06b9ca1b166efabfc7524545e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 7 *
