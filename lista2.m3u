@@ -10,6 +10,8 @@
 
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 720p **
 http://192.168.18.41:6878/ace/getstream?id=2c54a4def58f41fc0d2163450a63f12955b656aa
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 1080p **
+http://192.168.18.41:6878/ace/getstream?id=e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
 #EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" group-title="RFEF TV",RFEF TV 1080p **
 http://192.168.18.41:6878/ace/getstream?id=854ff9c607101791346111cd2366a392c3b8c351
 #EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" group-title="RFEF TV",RFEF TV 1080p **
@@ -45,9 +47,9 @@ http://192.168.18.41:6878/ace/getstream?id=6fbd92735502bdebbf1ea58f4298e49759c0c
 #EXTINF:-1 tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p *
 http://192.168.18.41:6878/ace/getstream?id=20d4b3586bb822c3618cf8fb665a304869c5e1a5
 #EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p **
-http://192.168.18.41:6878/ace/getstream?id=342ca6975a4884d81f9fec5c4085a47060bd2028
-#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p **
 http://192.168.18.41:6878/ace/getstream?id=c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p **
+http://192.168.18.41:6878/ace/getstream?id=342ca6975a4884d81f9fec5c4085a47060bd2028
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="MOVISTAR DEPORTES",M+ Deportes 2 720p *
 http://192.168.18.41:6878/ace/getstream?id=6b15368775693c33c49fab02e7900c1976a5da90
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="MOVISTAR DEPORTES",M+ Deportes 2 720p **
