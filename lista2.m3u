@@ -14,8 +14,6 @@ http://192.168.18.41:6878/ace/getstream?id=fc912a111ea5a88e02b858b5014d2358b11c8
 http://192.168.18.41:6878/ace/getstream?id=dac18df259f44258d81aa8f31cb343bb837f5ac7
 #EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 2 **
 http://192.168.18.41:6878/ace/getstream?id=63b1933154919d116f08e33ffcb31a23f9483989
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20Baloncesto.png" group-title="BALONCESTO",DAZN Baloncesto 3 720p *
-http://192.168.18.41:6878/ace/getstream?id=95125f755562c0ffcb44abd94e338bd65472afea
 #EXTINF:-1 tvg-id="DAZN Baloncesto 3" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2025/12/dazn-baloncesto-movistar-plus.png" group-title="BALONCESTO",DAZN Baloncesto 3 1080p **
 http://192.168.18.41:6878/ace/getstream?id=13d68ecb392251a81489ce75be90388498ecfb91
 #EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 3 *
