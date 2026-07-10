@@ -18,8 +18,6 @@ http://192.168.18.41:6878/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5
 http://192.168.18.41:6878/ace/getstream?id=584e20154750a15d14cb59953bb9cdd923c331bb
 #EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 4 **
 http://192.168.18.41:6878/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
-#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 720p **
-http://192.168.18.41:6878/ace/getstream?id=129c707eb4854171d178a566f36d90b7f2b5e624
 #EXTINF:-1 tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p *
 http://192.168.18.41:6878/ace/getstream?id=20d4b3586bb822c3618cf8fb665a304869c5e1a5
 #EXTINF:-1 tvg-logo="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1772006365-dazn-motogp-699eaba85423e.jpg" group-title="MOTOGP",Dazn MotoGP 1080p *
